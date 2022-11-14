@@ -1,4 +1,4 @@
-# social buzz (social media and content creation)- an accenture client 
+# social buzz (social media and content creation)- an accenture's client 
 #data-analytics-and-visualization
 #Project understanding- teamwork, strategy, planning 
 #data cleaning & modeling- data understanding
